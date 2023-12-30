@@ -1,5 +1,8 @@
 In this project, let's build an **Alert Notifications** app by applying the concepts we have learned till now.
 
+REFER THIS LINK TO VIEW THE APP:
+https://alerts432.ccbp.tech
+
 ### Refer to the image below:
 
 <br/>
